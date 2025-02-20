@@ -1,5 +1,6 @@
 # InternIntelligence_TEDTalkAnalysis
 ### About Dataset
+https://www.kaggle.com/datasets/thegupta/ted-talk
 
 #### Context
 I was looking for an interesting dataset for a personal Data Science project, and I'm a fan of TED. So, I looked for the TED dataset, found Rounka's but it is incomplete and outdated. Then, I scraped myself and made it super fast using Parallel Programming. Now, it downloads all Metadata along with the Transcript in 300 seconds of all 4609 Talks on the website*. This is the most comprehensive TED Talk dataset which includes media files (images, audio, and video) too!
