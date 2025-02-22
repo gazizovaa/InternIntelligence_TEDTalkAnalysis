@@ -9,3 +9,6 @@ I was looking for an interesting dataset for a personal Data Science project, an
 
 #### Content
 Each row corresponds to a Talk on TED.com and each column details Metadata (generic/speaker/talk related information) plus Transcript.
+
+Extra Sources I used:
+https://afzalbadshah.com/index.php/2024/02/21/setting-up-apache-spark-in-google-colab/
